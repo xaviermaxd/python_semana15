@@ -1,0 +1,27 @@
+Nombre del producto: zapatos
+Cantidad: 2
+Subtotal: 410.0
+IGV: 90.0
+Total: 500
+fecha de compra: 10/12/21
+hora de compra: 23:27:32
+--------------------
+                    
+Nombre del producto: polo
+Cantidad: 5
+Subtotal: 246.0
+IGV: 54.0
+Total: 300
+fecha de compra: 10/12/21
+hora de compra: 23:27:47
+--------------------
+                    
+Nombre del producto: lentes
+Cantidad: 2
+Subtotal: 492.0
+IGV: 108.0
+Total: 600
+fecha de compra: 10/12/21
+hora de compra: 23:28:01
+--------------------
+                    

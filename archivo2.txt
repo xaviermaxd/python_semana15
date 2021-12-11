@@ -1,0 +1,12 @@
+Nombre: xavier mamani
+Curso: diseño de interfaces
+Nota 1: 12
+Nota 2: 17
+Promedio: 14.5
+Aprobado: True
+Nombre: jose perez
+Curso: software
+Nota 1: 14
+Nota 2: 18
+Promedio: 16.0
+Aprobado: True
